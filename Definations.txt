@@ -1,0 +1,41 @@
+Constructor
+----------------------
+A special method
+It is used to initialize a data of a variable.
+It helps to create an object
+Constructor-Name is Same as a Class-Name
+1-Class can have many Constructors
+Every Class requires a constructor if we want to ceate the instance of that class. (else compiler will create it)
+
+Types:
+---------------
+i.Implicit/Default Constructor 
+•	Has no Parameter
+•	Automatically created by the CLR.
+•	Public
+ii.No-Parameterized Constructor
+•	Has no Parameter
+•	Created by the User.
+iii.Explicit/Parameterized Constructor
+•	Has at-least 1 Parameter
+•	Helps if we forget to pass any value to a variable.
+iv. Copy Constructor
+•	If we want to create multiple instances with the same values
+•	Parameterized Constructor
+•	Has  Parameter of same Class Type
+v.Static Constructor
+•	Static Keyword is used to create this constructor.
+•	Initializes static variables.
+•	Always implicitly called.
+•	It executes first, even before the main method & class members, of the class. (if the 	main method is in that class.)
+•	It has no Parameter. Always implicitly called, so no chance to pass a value of a 	parameter. 
+•	No Parameter, so overloading is not possible.
+•	It has no Access-Modifier
+•	Class Name is used to call it.
+•	Static members will load inside the Static Memory.
+
+vii.Private Constructor
+•	Private Keyword is used to create this constructor
+•	It prevents Object-Creation
+•	It prevents Inheritance
+

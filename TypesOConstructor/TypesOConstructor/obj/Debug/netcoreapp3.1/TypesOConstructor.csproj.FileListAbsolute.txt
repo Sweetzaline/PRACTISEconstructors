@@ -1,0 +1,13 @@
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.exe
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.deps.json
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.dll
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\bin\Debug\netcoreapp3.1\TypesOConstructor.pdb
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.dll
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.pdb
+C:\Users\Amit Pegu\Desktop\Constructor\TypesOConstructor\TypesOConstructor\obj\Debug\netcoreapp3.1\TypesOConstructor.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.exe
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.deps.json
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.dll
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\bin\Debug\netcoreapp3.1\WhyConstructor.pdb
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.dll
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.pdb
+C:\Users\Amit Pegu\Desktop\Constructor\WhyConstructor\WhyConstructor\obj\Debug\netcoreapp3.1\WhyConstructor.genruntimeconfig.cache

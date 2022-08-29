@@ -1,10 +1,15 @@
 Why Constructor? 
 -------------------------
-
-Every class requires a constructor to ba presenter init if we want to create the instance of that class.
-Every class contains an implicit constructor if not defined explicitly and with the help of that implicit constructor instance of class can be created.
+Every class requires a constructor, if we want to create the instance of that class.
+Every class contains an implicit constructor, if not defined explicitly and with the 
+help of the constructor instance of class can be created.
 
 Why Explicitly define a constructor again?
+-----------------------------------------------
 Implicit constructors of a class will initiaze variables of a class with the same value even if we create multiple instance of that class.
-If we define constructors  explicitly with parameters then we get a change of initializing the fields or variables of the class with a new value every time we going to create instance of that class.
-Whenever we define a class first identfy whether if the class variables requires some values to execute and if the class variables requires some values to execute and  if they are required then define a constructor explicitly and pass values t o the constructor, so everytime the instance is created, we get a chance of passing new values.
+But if we define constructors  explicitly with parameters then we get a change of initializing the fields or variables of the class 
+with a new value every time we going to create instance of that class.
+
+Whenever we define a class first identfy whether if the class variables requires some new values to execute 
+and if they are required then define a constructor explicitly and pass values to the constructor, 
+so that everytime the instance is created, we get a chance of passing new values.

@@ -7,7 +7,7 @@ help of the constructor instance of class can be created.
 Why Explicitly define a constructor again?
 -----------------------------------------------
 Implicit constructors of a class will initiaze variables of a class with the same value even if we create multiple instance of that class.
-But if we define constructors  explicitly with parameters then we get a change of initializing the fields or variables of the class 
+But if we define constructors  explicitly with parameters then we get a chance of initializing the variables of the class 
 with a new value every time we going to create instance of that class.
 
 Whenever we define a class first identfy whether if the class variables requires some new values to execute 
